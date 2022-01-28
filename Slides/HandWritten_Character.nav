@@ -1,0 +1,227 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\beamer@sectionpages {1}{1}}
+\headcommand {\beamer@subsectionpages {1}{1}}
+\headcommand {\sectionentry {1}{Introduction}{2}{Introduction}{0}}
+\headcommand {\slideentry {1}{0}{1}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\beamer@subsectionpages {2}{2}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{3}{Background}}
+\headcommand {\slideentry {1}{1}{1}{3/3}{Background}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\slideentry {1}{1}{2}{4/4}{Background}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\beamer@subsectionpages {3}{4}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{5}{Problem Description}}
+\headcommand {\slideentry {1}{2}{1}{5/5}{Problem Description}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\slideentry {1}{2}{2}{6/6}{Problem Description}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\beamer@sectionpages {2}{6}}
+\headcommand {\beamer@subsectionpages {5}{6}}
+\headcommand {\sectionentry {2}{Data Preparation}{7}{Data Preparation}{0}}
+\headcommand {\slideentry {2}{0}{1}{7/7}{}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\beamer@subsectionpages {7}{7}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{8}{Data Source}}
+\headcommand {\slideentry {2}{1}{1}{8/8}{Data Source}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\slideentry {2}{1}{2}{9/9}{Data Source}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\beamer@subsectionpages {8}{9}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{10}{Data Content}}
+\headcommand {\slideentry {2}{2}{1}{10/10}{Data Content}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\slideentry {2}{2}{2}{11/11}{Data Content}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\beamer@subsectionpages {10}{11}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{12}{Data transformation}}
+\headcommand {\slideentry {2}{3}{1}{12/12}{Data transformation}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\slideentry {2}{3}{2}{13/13}{Data transformation}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\beamer@sectionpages {7}{13}}
+\headcommand {\beamer@subsectionpages {12}{13}}
+\headcommand {\sectionentry {3}{Data visualization}{14}{Data visualization}{0}}
+\headcommand {\slideentry {3}{0}{1}{14/14}{}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\slideentry {3}{0}{2}{15/15}{}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\beamer@sectionpages {14}{15}}
+\headcommand {\beamer@subsectionpages {14}{15}}
+\headcommand {\sectionentry {4}{Used Language}{16}{Used Language}{0}}
+\headcommand {\slideentry {4}{0}{1}{16/16}{}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\slideentry {4}{0}{2}{17/17}{}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\beamer@sectionpages {16}{17}}
+\headcommand {\beamer@subsectionpages {16}{17}}
+\headcommand {\sectionentry {5}{Support Vector Machines}{18}{Support Vector Machines}{0}}
+\headcommand {\slideentry {5}{0}{1}{18/18}{}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\slideentry {5}{0}{2}{19/19}{}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\beamer@subsectionpages {18}{19}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{20}{Linear Kernel}}
+\headcommand {\slideentry {5}{1}{1}{20/20}{Linear Kernel}{0}}
+\headcommand {\beamer@framepages {20}{20}}
+\headcommand {\beamer@subsubsectionentry {0}{5}{1}{1}{21}{SGD optimization}}
+\headcommand {\slideentry {5}{1}{2}{21/21}{Linear Kernel}{0}}
+\headcommand {\beamer@framepages {21}{21}}
+\headcommand {\slideentry {5}{1}{2}{21/22}{Linear Kernel}{0}}
+\headcommand {\beamer@framepages {21}{22}}
+\headcommand {\slideentry {5}{1}{2}{21/23}{Linear Kernel}{0}}
+\headcommand {\beamer@framepages {21}{23}}
+\headcommand {\beamer@subsectionpages {20}{23}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{24}{RBF Kernel}}
+\headcommand {\slideentry {5}{2}{1}{24/24}{RBF Kernel}{0}}
+\headcommand {\beamer@framepages {24}{24}}
+\headcommand {\beamer@subsubsectionentry {0}{5}{2}{1}{25}{Tuning with 20\% data set}}
+\headcommand {\slideentry {5}{2}{2}{25/25}{RBF Kernel}{0}}
+\headcommand {\beamer@framepages {25}{25}}
+\headcommand {\slideentry {5}{2}{2}{25/26}{RBF Kernel}{0}}
+\headcommand {\beamer@framepages {25}{26}}
+\headcommand {\beamer@subsubsectionentry {0}{5}{2}{2}{27}{Train best model with whole data set}}
+\headcommand {\slideentry {5}{2}{3}{27/27}{RBF Kernel}{0}}
+\headcommand {\beamer@framepages {27}{27}}
+\headcommand {\beamer@subsectionpages {24}{27}}
+\headcommand {\beamer@subsectionentry {0}{5}{3}{28}{Polynomial Kernel}}
+\headcommand {\slideentry {5}{3}{1}{28/28}{Polynomial Kernel}{0}}
+\headcommand {\beamer@framepages {28}{28}}
+\headcommand {\beamer@subsubsectionentry {0}{5}{3}{1}{29}{Tuning with 20\% data set}}
+\headcommand {\slideentry {5}{3}{2}{29/29}{Polynomial Kernel}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\slideentry {5}{3}{2}{29/30}{Polynomial Kernel}{0}}
+\headcommand {\beamer@framepages {29}{30}}
+\headcommand {\beamer@subsubsectionentry {0}{5}{3}{2}{31}{Train best model with whole data set}}
+\headcommand {\slideentry {5}{3}{3}{31/31}{Polynomial Kernel}{0}}
+\headcommand {\beamer@framepages {31}{31}}
+\headcommand {\beamer@sectionpages {18}{31}}
+\headcommand {\beamer@subsectionpages {28}{31}}
+\headcommand {\sectionentry {6}{Boosting}{32}{Boosting}{0}}
+\headcommand {\slideentry {6}{0}{1}{32/32}{}{0}}
+\headcommand {\beamer@framepages {32}{32}}
+\headcommand {\beamer@subsectionpages {32}{32}}
+\headcommand {\beamer@subsectionentry {0}{6}{1}{33}{Ada Boosting}}
+\headcommand {\slideentry {6}{1}{1}{33/33}{Ada Boosting}{0}}
+\headcommand {\beamer@framepages {33}{33}}
+\headcommand {\beamer@subsubsectionentry {0}{6}{1}{1}{34}{Tuning with 20\% data set}}
+\headcommand {\slideentry {6}{1}{2}{34/34}{Ada Boosting}{0}}
+\headcommand {\beamer@framepages {34}{34}}
+\headcommand {\beamer@subsubsectionentry {0}{6}{1}{2}{35}{Train best model with whole data set}}
+\headcommand {\slideentry {6}{1}{3}{35/35}{Ada Boosting}{0}}
+\headcommand {\beamer@framepages {35}{35}}
+\headcommand {\slideentry {6}{1}{3}{35/36}{Ada Boosting}{0}}
+\headcommand {\beamer@framepages {35}{36}}
+\headcommand {\slideentry {6}{1}{3}{35/37}{Ada Boosting}{0}}
+\headcommand {\beamer@framepages {35}{37}}
+\headcommand {\beamer@subsectionpages {33}{37}}
+\headcommand {\beamer@subsectionentry {0}{6}{2}{38}{Gradient Boosting}}
+\headcommand {\slideentry {6}{2}{1}{38/38}{Gradient Boosting}{0}}
+\headcommand {\beamer@framepages {38}{38}}
+\headcommand {\beamer@subsubsectionentry {0}{6}{2}{1}{39}{Tuning with 20\% data set}}
+\headcommand {\slideentry {6}{2}{2}{39/39}{Gradient Boosting}{0}}
+\headcommand {\beamer@framepages {39}{39}}
+\headcommand {\slideentry {6}{2}{2}{39/40}{Gradient Boosting}{0}}
+\headcommand {\beamer@framepages {39}{40}}
+\headcommand {\beamer@subsubsectionentry {0}{6}{2}{2}{41}{Train best model with whole data set}}
+\headcommand {\slideentry {6}{2}{3}{41/41}{Gradient Boosting}{0}}
+\headcommand {\beamer@framepages {41}{41}}
+\headcommand {\beamer@sectionpages {32}{41}}
+\headcommand {\beamer@subsectionpages {38}{41}}
+\headcommand {\sectionentry {7}{Neutral Network}{42}{Neutral Network}{0}}
+\headcommand {\slideentry {7}{0}{1}{42/42}{}{0}}
+\headcommand {\beamer@framepages {42}{42}}
+\headcommand {\slideentry {7}{0}{2}{43/43}{}{0}}
+\headcommand {\beamer@framepages {43}{43}}
+\headcommand {\beamer@subsectionpages {42}{43}}
+\headcommand {\beamer@subsectionentry {0}{7}{1}{44}{1-layer Neutral Network}}
+\headcommand {\slideentry {7}{1}{1}{44/44}{1-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {44}{44}}
+\headcommand {\beamer@subsubsectionentry {0}{7}{1}{1}{45}{Softmax activation function}}
+\headcommand {\slideentry {7}{1}{2}{45/45}{1-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {45}{45}}
+\headcommand {\slideentry {7}{1}{2}{45/46}{1-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {45}{46}}
+\headcommand {\slideentry {7}{1}{2}{45/47}{1-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {45}{47}}
+\headcommand {\slideentry {7}{1}{2}{45/48}{1-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {45}{48}}
+\headcommand {\slideentry {7}{1}{2}{45/49}{1-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {45}{49}}
+\headcommand {\slideentry {7}{1}{2}{45/50}{1-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {45}{50}}
+\headcommand {\slideentry {7}{1}{2}{45/51}{1-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {45}{51}}
+\headcommand {\slideentry {7}{1}{2}{45/52}{1-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {45}{52}}
+\headcommand {\beamer@subsubsectionentry {0}{7}{1}{2}{53}{ReLU activation function}}
+\headcommand {\slideentry {7}{1}{3}{53/53}{1-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {53}{53}}
+\headcommand {\slideentry {7}{1}{3}{53/54}{1-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {53}{54}}
+\headcommand {\slideentry {7}{1}{3}{53/55}{1-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {53}{55}}
+\headcommand {\slideentry {7}{1}{3}{53/56}{1-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {53}{56}}
+\headcommand {\slideentry {7}{1}{3}{53/57}{1-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {53}{57}}
+\headcommand {\slideentry {7}{1}{3}{53/58}{1-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {53}{58}}
+\headcommand {\slideentry {7}{1}{3}{53/59}{1-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {53}{59}}
+\headcommand {\beamer@subsubsectionentry {0}{7}{1}{3}{60}{Comparison}}
+\headcommand {\slideentry {7}{1}{4}{60/60}{1-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {60}{60}}
+\headcommand {\slideentry {7}{1}{4}{60/61}{1-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {60}{61}}
+\headcommand {\beamer@subsectionpages {44}{61}}
+\headcommand {\beamer@subsectionentry {0}{7}{2}{62}{2-layer Neutral Network}}
+\headcommand {\slideentry {7}{2}{1}{62/62}{2-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {62}{62}}
+\headcommand {\slideentry {7}{2}{2}{63/63}{2-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {63}{63}}
+\headcommand {\slideentry {7}{2}{2}{63/64}{2-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {63}{64}}
+\headcommand {\slideentry {7}{2}{2}{63/65}{2-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {63}{65}}
+\headcommand {\slideentry {7}{2}{2}{63/66}{2-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {63}{66}}
+\headcommand {\slideentry {7}{2}{2}{63/67}{2-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {63}{67}}
+\headcommand {\slideentry {7}{2}{2}{63/68}{2-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {63}{68}}
+\headcommand {\slideentry {7}{2}{2}{63/69}{2-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {63}{69}}
+\headcommand {\slideentry {7}{2}{2}{63/70}{2-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {63}{70}}
+\headcommand {\slideentry {7}{2}{2}{63/71}{2-layer Neutral Network}{0}}
+\headcommand {\beamer@framepages {63}{71}}
+\headcommand {\beamer@sectionpages {42}{71}}
+\headcommand {\beamer@subsectionpages {62}{71}}
+\headcommand {\sectionentry {8}{Conclusion}{72}{Conclusion}{0}}
+\headcommand {\slideentry {8}{0}{1}{72/72}{}{0}}
+\headcommand {\beamer@framepages {72}{72}}
+\headcommand {\slideentry {8}{0}{2}{73/73}{}{0}}
+\headcommand {\beamer@framepages {73}{73}}
+\headcommand {\slideentry {8}{0}{2}{73/74}{}{0}}
+\headcommand {\beamer@framepages {73}{74}}
+\headcommand {\beamer@sectionpages {72}{74}}
+\headcommand {\beamer@subsectionpages {72}{74}}
+\headcommand {\sectionentry {9}{References}{75}{References}{0}}
+\headcommand {\slideentry {9}{0}{1}{75/75}{}{0}}
+\headcommand {\beamer@framepages {75}{75}}
+\headcommand {\slideentry {9}{0}{2}{76/76}{}{0}}
+\headcommand {\beamer@framepages {76}{76}}
+\headcommand {\beamer@sectionpages {75}{76}}
+\headcommand {\beamer@subsectionpages {75}{76}}
+\headcommand {\sectionentry {10}{Questions}{77}{Questions}{0}}
+\headcommand {\slideentry {10}{0}{1}{77/77}{}{0}}
+\headcommand {\beamer@framepages {77}{77}}
+\headcommand {\slideentry {10}{0}{2}{78/78}{}{0}}
+\headcommand {\beamer@framepages {78}{78}}
+\headcommand {\beamer@partpages {1}{78}}
+\headcommand {\beamer@subsectionpages {77}{78}}
+\headcommand {\beamer@sectionpages {77}{78}}
+\headcommand {\beamer@documentpages {78}}
+\headcommand {\gdef \inserttotalframenumber {77}}

@@ -1,0 +1,16 @@
+\beamer@slide {Wearable}{6}
+\beamer@slide {Distribution Of The Class}{11}
+\beamer@slide {distribution of Sensor 1 and 2}{13}
+\beamer@slide {distribution of Sensor 3 and 4}{14}
+\beamer@slide {logil}{18}
+\beamer@slide {errorMultinomialLogisticRegression}{19}
+\beamer@slide {multinom_plot_ROC}{20}
+\beamer@slide {errorLinearDiscriminativeAnalysis}{23}
+\beamer@slide {lda_plot_ROC}{24}
+\beamer@slide {LQDA}{26}
+\beamer@slide {errorQuadraticDiscriminativeAnalysis}{27}
+\beamer@slide {qda_plot_ROC}{28}
+\beamer@slide {NearestNeighbors}{32}
+\beamer@slide {knn_plot_ROC}{33}
+\beamer@slide {bibliography<1>}{39}
+\beamer@slide {bibliography}{39}

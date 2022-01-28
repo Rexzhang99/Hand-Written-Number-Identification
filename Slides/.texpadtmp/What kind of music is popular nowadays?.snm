@@ -1,0 +1,24 @@
+\beamer@slide {Features of original data}{8}
+\beamer@slide {ggpairs.png}{10}
+\beamer@slide {ggpairs.png}{11}
+\beamer@slide {ggpairs.png}{12}
+\beamer@slide {ggpairs.png}{13}
+\beamer@slide {ggpairs.png}{14}
+\beamer@slide {Coefficient of Linear regression}{18}
+\beamer@slide {RMSE Table of Linear regression}{19}
+\beamer@slide {Prediction Versus The Observation in train data}{20}
+\beamer@slide {Prediction Versus The Observation in test data}{21}
+\beamer@slide {Total Number of Coefficient and RMSE in Ridge}{22}
+\beamer@slide {Coefficient of Ridge regression}{23}
+\beamer@slide {Total Number of Coefficient and RMSE in Lasso}{24}
+\beamer@slide {Coefficient of LASSO regression}{25}
+\beamer@slide {Total Number of Coefficient and RMSE in Elastic-net}{26}
+\beamer@slide {Coefficient of Elastic-net regression}{27}
+\beamer@slide {Divid the data to 3 classes}{29}
+\beamer@slide {errorMultinomialLogisticRegression}{31}
+\beamer@slide {errorLinearDiscriminativeAnalysis}{32}
+\beamer@slide {errorQuadraticDiscriminativeAnalysis.png}{34}
+\beamer@slide {errorK-NearestNeighbors}{36}
+\beamer@slide {errorK-NearestNeighbors}{37}
+\beamer@slide {bibliography<1>}{42}
+\beamer@slide {bibliography}{42}

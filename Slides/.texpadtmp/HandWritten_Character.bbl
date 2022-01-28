@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{lecun-mnisthandwrittendigit-2010}
+Yann LeCun and Corinna Cortes.
+\newblock {MNIST} handwritten digit database.
+\newblock 2010.
+
+\bibitem{chollet2015keras}
+Fran\c{c}ois Chollet et~al.
+\newblock Keras.
+\newblock \url{https://github.com/fchollet/keras}, 2015.
+
+\end{thebibliography}

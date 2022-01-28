@@ -1,0 +1,2275 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.3.4)  23 MAR 2020 14:56
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"What kind of music is popular nowadays?.tex"
+(./What kind of music is popular nowadays?.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-02-25> (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamer.cls
+Document Class: beamer 2019/09/29 v3.57 A class for typesetting presentations
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasemodes.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count163
+)
+\beamer@tempbox=\box45
+\beamer@tempcount=\count164
+\c@beamerpauses=\count165
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+\beamer@slideinframe=\count166
+\beamer@minimum=\count167
+\beamer@decode@box=\box46
+)
+\beamer@commentbox=\box47
+\beamer@modecount=\count168
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\headdp=\dimen134
+\footheight=\dimen135
+\sidebarheight=\dimen136
+\beamer@tempdim=\dimen137
+\beamer@finalheight=\dimen138
+\beamer@animht=\dimen139
+\beamer@animdp=\dimen140
+\beamer@animwd=\dimen141
+\beamer@leftmargin=\dimen142
+\beamer@rightmargin=\dimen143
+\beamer@leftsidebar=\dimen144
+\beamer@rightsidebar=\dimen145
+\beamer@boxsize=\dimen146
+\beamer@vboxoffset=\dimen147
+\beamer@descdefault=\dimen148
+\beamer@descriptionwidth=\dimen149
+\beamer@lastskip=\skip47
+\beamer@areabox=\box48
+\beamer@animcurrent=\box49
+\beamer@animshowbox=\box50
+\beamer@sectionbox=\box51
+\beamer@logobox=\box52
+\beamer@linebox=\box53
+\beamer@sectioncount=\count169
+\beamer@subsubsectionmax=\count170
+\beamer@subsectionmax=\count171
+\beamer@sectionmax=\count172
+\beamer@totalheads=\count173
+\beamer@headcounter=\count174
+\beamer@partstartpage=\count175
+\beamer@sectionstartpage=\count176
+\beamer@subsectionstartpage=\count177
+\beamer@animationtempa=\count178
+\beamer@animationtempb=\count179
+\beamer@xpos=\count180
+\beamer@ypos=\count181
+\beamer@ypos@offset=\count182
+\beamer@showpartnumber=\count183
+\beamer@currentsubsection=\count184
+\beamer@coveringdepth=\count185
+\beamer@sectionadjust=\count186
+\beamer@tocsectionnumber=\count187
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+))
+\beamer@paperwidth=\skip48
+\beamer@paperheight=\skip49
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count188
+\Gm@cntv=\count189
+\c@Gm@tempcnt=\count190
+\Gm@bindingoffset=\dimen150
+\Gm@wd@mp=\dimen151
+\Gm@odd@mp=\dimen152
+\Gm@even@mp=\dimen153
+\Gm@layoutwidth=\dimen154
+\Gm@layoutheight=\dimen155
+\Gm@layouthoffset=\dimen156
+\Gm@layoutvoffset=\dimen157
+\Gm@dimlist=\toks16
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 105.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen158
+\Gin@req@width=\dimen159
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen160
+\pgfutil@tempdimb=\dimen161
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box54
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks18
+\pgfkeys@temptoks=\toks19
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks20
+))
+\pgf@x=\dimen162
+\pgf@y=\dimen163
+\pgf@xa=\dimen164
+\pgf@ya=\dimen165
+\pgf@xb=\dimen166
+\pgf@yb=\dimen167
+\pgf@xc=\dimen168
+\pgf@yc=\dimen169
+\pgf@xd=\dimen170
+\pgf@yd=\dimen171
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count191
+\c@pgf@countb=\count192
+\c@pgf@countc=\count193
+\c@pgf@countd=\count194
+\t@pgf@toka=\toks21
+\t@pgf@tokb=\toks22
+\t@pgf@tokc=\toks23
+\pgf@sys@id@count=\count195
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+)
+\pgfsys@objnum=\count196
+))) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count197
+\pgfsyssoftpath@bigbuffer@items=\count198
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen172
+\pgfmath@count=\count199
+\pgfmath@box=\box55
+\pgfmath@toks=\toks24
+\pgfmath@stack@operand=\toks25
+\pgfmath@stack@operation=\toks26
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count266
+)) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen173
+\pgf@picmaxx=\dimen174
+\pgf@picminy=\dimen175
+\pgf@picmaxy=\dimen176
+\pgf@pathminx=\dimen177
+\pgf@pathmaxx=\dimen178
+\pgf@pathminy=\dimen179
+\pgf@pathmaxy=\dimen180
+\pgf@xx=\dimen181
+\pgf@xy=\dimen182
+\pgf@yx=\dimen183
+\pgf@yy=\dimen184
+\pgf@zx=\dimen185
+\pgf@zy=\dimen186
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen187
+\pgf@path@lasty=\dimen188
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen189
+\pgf@shorten@start@additional=\dimen190
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box56
+\pgf@hbox=\box57
+\pgf@layerbox@main=\box58
+\pgf@picture@serial@count=\count267
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen191
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen192
+\pgf@pt@y=\dimen193
+\pgf@pt@temp=\dimen194
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen195
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen196
+\pgf@sys@shading@range@num=\count268
+\pgf@shadingcount=\count269
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box59
+)) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count270
+\XC@countmixins=\count271
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen197
+\Hy@linkcounter=\count272
+\Hy@pagecounter=\count273
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count274
+Package hyperref Info: Option `bookmarks' set `true' on input line 4421.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4421.
+Package hyperref Info: Option `implicit' set `false' on input line 4421.
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count275
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen198
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count276
+\Field@Width=\dimen199
+\Fld@charsize=\dimen256
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+\Hy@abspage=\count277
+
+
+Package hyperref Message: Stopped early.
+
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2020/01/14 v7.00d Hyperref driver for XeTeX
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2020/01/14 v7.00d Hyperref: PDF Unicode definition (HO)
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\pdfm@box=\box60
+\c@Hy@AnnotLevel=\count278
+\HyField@AnnotCount=\count279
+\Fld@listcount=\count280
+\c@bookmark@seq@number=\count281
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)) (/usr/local/texlive/2019/texmf-dist/tex/generic/stringenc/se-ascii-print.def
+File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaserequires.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasefont.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks27
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+Package: sansmathaccent 2020/01/31
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2020/01/24 v3.29 KOMA-Script package (loading files)
+))) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasemisc.sty) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+\beamer@argscount=\count282
+\beamer@lastskipcover=\skip50
+\beamer@trivlistdepth=\count283
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasetitle.sty) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+\c@lecture=\count284
+\c@part=\count285
+\c@section=\count286
+\c@subsection=\count287
+\c@subsubsection=\count288
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+\beamer@framebox=\box61
+\beamer@frametitlebox=\box62
+\beamer@zoombox=\box63
+\beamer@zoomcount=\count289
+\beamer@zoomframecount=\count290
+\beamer@frametextheight=\dimen257
+\c@subsectionslide=\count291
+\beamer@frametopskip=\skip51
+\beamer@framebottomskip=\skip52
+\beamer@frametopskipautobreak=\skip53
+\beamer@framebottomskipautobreak=\skip54
+\beamer@envbody=\toks28
+\framewidth=\dimen258
+\c@framenumber=\count292
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+\beamer@verbatimfileout=\write4
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+\beamer@splitbox=\box64
+\beamer@autobreakcount=\count293
+\beamer@autobreaklastheight=\dimen259
+\beamer@frametitletoks=\toks29
+\beamer@framesubtitletoks=\toks30
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
+\beamer@footins=\box65
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasecolor.sty) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+\beamer@frameboxcopy=\box66
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasetoc.sty) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+\beamer@sbttoks=\toks31
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+\bmb@box=\box67
+\bmb@colorbox=\box68
+\bmb@boxshadow=\box69
+\bmb@boxshadowball=\box70
+\bmb@boxshadowballlarge=\box71
+\bmb@temp=\dimen260
+\bmb@dima=\dimen261
+\bmb@dimb=\dimen262
+\bmb@prevheight=\dimen263
+)
+\beamer@blockheadheight=\dimen264
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks32
+)
+\c@figure=\count294
+\c@table=\count295
+\abovecaptionskip=\skip55
+\belowcaptionskip=\skip56
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+\beamer@section@min@dim=\dimen265
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip57
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks33
+\ex@=\dimen266
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen267
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count296
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count297
+\leftroot@=\count298
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count299
+\DOTSCASE@=\count300
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box72
+\strutbox@=\box73
+\big@size=\dimen268
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count301
+\c@MaxMatrixCols=\count302
+\dotsspace@=\muskip17
+\c@parentequation=\count303
+\dspbrk@lvl=\count304
+\tag@help=\toks34
+\row@=\count305
+\column@=\count306
+\maxfields@=\count307
+\andhelp@=\toks35
+\eqnshift@=\dimen269
+\alignsep@=\dimen270
+\tagshift@=\dimen271
+\tagwidth@=\dimen272
+\totwidth@=\dimen273
+\lineht@=\dimen274
+\@envbody=\toks36
+\multlinegap=\skip58
+\multlinetaggap=\skip59
+\mathdisplay@stack=\toks37
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks38
+\thm@bodyfont=\toks39
+\thm@headfont=\toks40
+\thm@notefont=\toks41
+\thm@headpunct=\toks42
+\thm@preskip=\skip60
+\thm@postskip=\skip61
+\thm@headsep=\skip62
+\dth@everypar=\toks43
+)
+\c@theorem=\count308
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerbasethemes.sty)) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerthemedefault.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
+\beamer@dima=\dimen275
+\beamer@dimb=\dimen276
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (./beamerthemefibeamer.sty
+
+LaTeX Warning: You have requested package `beamerthemefibeamer',
+               but the package provides `fibeamer/beamerthemefibeamer'.
+
+Package: fibeamer/beamerthemefibeamer 2016/06/16 v1.1.5 fibeamer MU beamer theme
+(/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+\MT@toks=\toks44
+\MT@count=\count309
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen277
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count310
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype-xetex.def
+File: microtype-xetex.def 2019/11/18 v2.7d Definitions specific to xetex (RS)
+LaTeX Info: Redefining \lsstyle on input line 258.
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/carlito/carlito.sty
+Package: carlito 2014/08/20 (Bob Tennent) Supports Carlito fonts for LaTeX, pdfLaTeX, luaLaTeX and xeLaTeX.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2019/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks45
+\XKV@tempa@toks=\toks46
+)
+\XKV@depth=\count311
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-02-25 L3 programming layer (loader) 
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
+File: l3backend-xdvipdfmx.def 2020-02-23 L3 backend support: xdvipdfmx
+\g__graphics_track_int=\count312
+\l__pdf_internal_box=\box74
+\g__pdf_backend_object_int=\count313
+\g__pdf_backend_annotation_int=\count314
+))
+Package: xparse 2020-02-25 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count315
+\g__xparse_grabber_int=\count316
+\l__xparse_m_args_int=\count317
+\l__xparse_v_nesting_int=\count318
+)
+Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
+\l__fontspec_script_int=\count319
+\l__fontspec_language_int=\count320
+\l__fontspec_strnum_int=\count321
+\l__fontspec_tmp_int=\count322
+\l__fontspec_tmpa_int=\count323
+\l__fontspec_tmpb_int=\count324
+\l__fontspec_tmpc_int=\count325
+\l__fontspec_em_int=\count326
+\l__fontspec_emdef_int=\count327
+\l__fontspec_strong_int=\count328
+\l__fontspec_strongdef_int=\count329
+\l__fontspec_tmpa_dim=\dimen278
+\l__fontspec_tmpb_dim=\dimen279
+\l__fontspec_tmpc_dim=\dimen280
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+Requested font "[Carlito-Regular.ttf]/OT" at 10.94997pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Regular.ttf
+Requested font "[Carlito-Regular.ttf]/OT" at 10.95003pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Regular.ttf
+Requested font "[Carlito-Regular.ttf]/OT:script=latn;language=dflt;" at 10.95003pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Regular.ttf
+Requested font "[Carlito-Bold.ttf]/OT:script=latn;language=dflt;" at 10.95003pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Bold.ttf
+Requested font "[Carlito-Italic.ttf]/OT:script=latn;language=dflt;" at 10.95003pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Italic.ttf
+Requested font "[Carlito-BoldItalic.ttf]/OT:script=latn;language=dflt;" at 10.95003pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-BoldItalic.ttf
+
+Package fontspec Info: Font family 'Carlito(0)' created for font 'Carlito'
+(fontspec)             with options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .ttf,Ligatures=TeX,Numbers =
+(fontspec)             {Lining,Proportional},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-Regular.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-Bold.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-Italic.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-BoldItalic.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `TU/Carlito(0)/m/n' will be
+(Font)              scaled to size 10.95pt on input line 85.
+Requested font "[Carlito-Regular.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 10.95pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Regular.ttf
+
+Package fontspec Info: Font family 'Carlito(1)' created for font 'Carlito'
+(fontspec)             with options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .ttf,Numbers = {Lining,Proportional},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-Regular.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-Bold.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-Italic.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-BoldItalic.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Carlito(2)' created for font 'Carlito'
+(fontspec)             with options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .ttf,Numbers = {Proportional,OldStyle},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-Regular.ttf]/OT:script=latn;language=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-Bold.ttf]/OT:script=latn;language=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-Italic.ttf]/OT:script=latn;language=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-BoldItalic.ttf]/OT:script=latn;language=dflt;+pnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Carlito(3)' created for font 'Carlito'
+(fontspec)             with options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .ttf,Numbers = {Proportional,Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-Regular.ttf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-Bold.ttf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-Italic.ttf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-BoldItalic.ttf]/OT:script=latn;language=dflt;+pnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Carlito(4)' created for font 'Carlito'
+(fontspec)             with options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .ttf,Numbers = {Monospaced, Lining},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-Regular.ttf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-Bold.ttf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-Italic.ttf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-BoldItalic.ttf]/OT:script=latn;language=dflt;+tnum;+lnum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+
+Package fontspec Info: Font family 'Carlito(5)' created for font 'Carlito'
+(fontspec)             with options [Ligatures = TeX,Scale = 1,Extension =
+(fontspec)             .ttf,Numbers = {Monospaced, OldStyle},UprightFont =
+(fontspec)             *-Regular,ItalicFont = *-Italic,BoldFont =
+(fontspec)             *-Bold,BoldItalicFont = *-BoldItalic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-Regular.ttf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-Bold.ttf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-Italic.ttf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->s*[1]"[Carlito-BoldItalic.ttf]/OT:script=latn;language=dflt;+tnum;+onum;mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+LaTeX Info: Redefining \textin on input line 153.
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/doublestroke/dsfont.sty
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+)
+Requested font "DejaVu Sans Mono" at 10.94997pt
+ -> font not found, using "nullfont"
+
+
+./beamerthemefibeamer.sty:224: Package fontspec Error: The font "DejaVu Sans Mono" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.224     \RequirePackage
+                         {setspace}
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+Requested font "DejaVu Sans Mono" at 10.95003pt
+ -> font not found, using "nullfont"
+Requested font "DejaVu Sans Mono" at 10.95001pt
+ -> font not found, using "nullfont"
+Requested font "DejaVu Sans Mono/BI" at 10.95001pt
+ -> font not found, using "nullfont"
+
+Package fontspec Info: Could not resolve font "DejaVu Sans Mono/BI" (it
+(fontspec)             probably doesn't exist).
+
+Requested font "DejaVu Sans Mono" at 10.95001pt
+ -> font not found, using "nullfont"
+Requested font "DejaVu Sans Mono/B" at 10.95001pt
+ -> font not found, using "nullfont"
+
+Package fontspec Info: Could not resolve font "DejaVu Sans Mono/B" (it
+(fontspec)             probably doesn't exist).
+
+Requested font "DejaVu Sans Mono" at 10.95001pt
+ -> font not found, using "nullfont"
+Requested font "DejaVu Sans Mono/I" at 10.95001pt
+ -> font not found, using "nullfont"
+
+Package fontspec Info: Could not resolve font "DejaVu Sans Mono/I" (it
+(fontspec)             probably doesn't exist).
+
+Requested font "DejaVu Sans Mono" at 10.95003pt
+ -> font not found, using "nullfont"
+
+./beamerthemefibeamer.sty:224: Package fontspec Error: The font "DejaVu Sans Mono" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.224     \RequirePackage
+                         {setspace}
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+Requested font "DejaVu Sans Mono" at 10.95003pt
+ -> font not found, using "nullfont"
+
+./beamerthemefibeamer.sty:224: Package fontspec Error: The font "DejaVu Sans Mono" cannot be found.
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.224     \RequirePackage
+                         {setspace}
+
+A font might not be found for many reasons.
+ Check the spelling, where the font is installed etc. etc.
+
+ When in doubt, ask someone for help!
+
+
+
+Package fontspec Info: Font family 'DejaVuSansMono(0)' created for font
+(fontspec)             'DejaVu Sans Mono' with options
+(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=WordSpace,Scale=0.85,Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[0.85]"DejaVu
+(fontspec)             Sans Mono"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->s*[0.85]"DejaVu Sans Mono"
+(fontspec)             and font adjustment code:
+(fontspec)             \fontdimen 2\font =1\fontdimen 2\font \fontdimen 3\font
+(fontspec)             =0\fontdimen 3\font \fontdimen 4\font =0\fontdimen
+(fontspec)             4\font \fontdimen 7\font =0\fontdimen 2\font
+(fontspec)             \tex_hyphenchar:D \font =-1\scan_stop: 
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+) (./fibeamer/theme/uu/beamercolorthemefibeamer-uu.sty
+
+LaTeX Warning: You have requested package `fibeamer/theme/uu/beamercolorthemefibeamer-uu',
+               but the package provides `fibeamer/theme/mu/beamercolorthemefibeamer-mu'.
+
+Package: fibeamer/theme/mu/beamercolorthemefibeamer-mu 2016/05/06
+(/usr/local/texlive/2019/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count330
+\lst@gtempboxa=\box75
+\lst@token=\toks47
+\lst@length=\count331
+\lst@currlwidth=\dimen281
+\lst@column=\count332
+\lst@pos=\count333
+\lst@lostspace=\dimen282
+\lst@width=\dimen283
+\lst@newlines=\count334
+\lst@lineno=\count335
+\lst@maxwidth=\dimen284
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count336
+\lst@skipnumbers=\count337
+\lst@framebox=\box76
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box77
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@nodesepstart=\dimen285
+\pgf@nodesepend=\dimen286
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/local/texlive/2019/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen287
+\pgffor@skip=\dimen288
+\pgffor@stack=\toks48
+\pgffor@toks=\toks49
+)) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count338
+\pgfplotmarksize=\dimen289
+)
+\tikz@lastx=\dimen290
+\tikz@lasty=\dimen291
+\tikz@lastxsaved=\dimen292
+\tikz@lastysaved=\dimen293
+\tikz@lastmovetox=\dimen294
+\tikz@lastmovetoy=\dimen295
+\tikzleveldistance=\dimen296
+\tikzsiblingdistance=\dimen297
+\tikz@figbox=\box78
+\tikz@figbox@bg=\box79
+\tikz@tempbox=\box80
+\tikz@tempbox@bg=\box81
+\tikztreelevel=\count339
+\tikznumberofchildren=\count340
+\tikznumberofcurrentchild=\count341
+\tikz@fig@count=\count342
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count343
+\pgfmatrixcurrentcolumn=\count344
+\pgf@matrix@numberofcolumns=\count345
+)
+\tikz@expandcount=\count346
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+Package hyperref Info: Option `colorlinks' set `true' on input line 86.
+) (./fibeamer/theme/uu/beamercolorthemefibeamer-uu-science.sty
+
+LaTeX Warning: You have requested package `fibeamer/theme/uu/beamercolorthemefibeamer-uu-science',
+               but the package provides `fibeamer/theme/mu/beamercolorthemefibeamer-mu-test'.
+
+Package: fibeamer/theme/mu/beamercolorthemefibeamer-mu-test 2016/05/06
+) (./fibeamer/theme/uu/beamerfontthemefibeamer-uu.sty
+
+LaTeX Warning: You have requested package `fibeamer/theme/uu/beamerfontthemefibeamer-uu',
+               but the package provides `fibeamer/theme/mu/beamerfontthemefibeamer-mu'.
+
+Package: fibeamer/theme/mu/beamerfontthemefibeamer-mu 2016/01/12
+) (./fibeamer/theme/uu/beamerinnerthemefibeamer-uu.sty
+
+LaTeX Warning: You have requested package `fibeamer/theme/uu/beamerinnerthemefibeamer-uu',
+               but the package provides `fibeamer/theme/mu/beamerinnerthemefibeamer-mu'.
+
+Package: fibeamer/theme/mu/beamerinnerthemefibeamer-mu 2016/01/14
+) (./fibeamer/theme/uu/beamerouterthemefibeamer-uu.sty
+
+LaTeX Warning: You have requested package `fibeamer/theme/uu/beamerouterthemefibeamer-uu',
+               but the package provides `fibeamer/theme/mu/beamerouterthemefibeamer-mu'.
+
+Package: fibeamer/theme/mu/beamerouterthemefibeamer-mu 2016/01/12
+\fibeamer@lengths@baseunit=\skip63
+\fibeamer@lengths@footerpad=\skip64
+\fibeamer@lengths@margin=\skip65
+\fibeamer@lengths@titleline=\skip66
+\fibeamer@lengths@clipbottom=\skip67
+\fibeamer@lengths@cliptop=\skip68
+\fibeamer@lengths@logowidth=\skip69
+\fibeamer@lengths@logoheight=\skip70
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks50
+\inpenc@posthook=\toks51
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/02/28 3.41 The Babel package
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/02/28 3.41 Babel switching mechanism
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/02/28 3.41 Babel common definitions
+\babel@savecnt=\count347
+\U@D=\dimen298
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/babel/xebabel.def (/usr/local/texlive/2019/texmf-dist/tex/generic/babel/txtbabel.def))
+\bbl@readstream=\read3
+LaTeX Info: Redefining \textlatin on input line 2402.
+\bbl@dirlevel=\count348
+)
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 108.
+)) (/usr/local/texlive/2019/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip71
+\RaggedLeftLeftskip=\skip72
+\RaggedRightLeftskip=\skip73
+\CenteringRightskip=\skip74
+\RaggedLeftRightskip=\skip75
+\RaggedRightRightskip=\skip76
+\CenteringParfillskip=\skip77
+\RaggedLeftParfillskip=\skip78
+\RaggedRightParfillskip=\skip79
+\JustifyingParfillskip=\skip80
+\CenteringParindent=\skip81
+\RaggedLeftParindent=\skip82
+\RaggedRightParindent=\skip83
+\JustifyingParindent=\skip84
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen299
+\lightrulewidth=\dimen300
+\cmidrulewidth=\dimen301
+\belowrulesep=\dimen302
+\belowbottomsep=\dimen303
+\aboverulesep=\dimen304
+\abovetopsep=\dimen305
+\cmidrulesep=\dimen306
+\cmidrulekern=\dimen307
+\defaultaddspace=\dimen308
+\@cmidla=\count349
+\@cmidlb=\count350
+\@aboverulesep=\dimen309
+\@belowrulesep=\dimen310
+\@thisruleclass=\count351
+\@lastruleclass=\count352
+\@thisrulewidth=\dimen311
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen312
+\ar@mcellbox=\box82
+\extrarowheight=\dimen313
+\NC@list=\toks52
+\extratabsurround=\skip85
+\backup@length=\skip86
+\ar@cellbox=\box83
+)
+\TX@col@width=\dimen314
+\TX@old@table=\dimen315
+\TX@old@col=\dimen316
+\TX@target=\dimen317
+\TX@delta=\dimen318
+\TX@cols=\count353
+\TX@ftn=\toks53
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.callouts.code.tex
+(/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callouts.code.tex)) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodepartlowerbox=\box84
+\pgfnodeparttwobox=\box85
+\pgfnodepartthreebox=\box86
+\pgfnodepartfourbox=\box87
+\pgfnodeparttwentybox=\box88
+\pgfnodepartnineteenbox=\box89
+\pgfnodeparteighteenbox=\box90
+\pgfnodepartseventeenbox=\box91
+\pgfnodepartsixteenbox=\box92
+\pgfnodepartfifteenbox=\box93
+\pgfnodepartfourteenbox=\box94
+\pgfnodepartthirteenbox=\box95
+\pgfnodeparttwelvebox=\box96
+\pgfnodepartelevenbox=\box97
+\pgfnodeparttenbox=\box98
+\pgfnodepartninebox=\box99
+\pgfnodeparteightbox=\box100
+\pgfnodepartsevenbox=\box101
+\pgfnodepartsixbox=\box102
+\pgfnodepartfivebox=\box103
+))) (/usr/local/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@layerbox@background=\box104
+\pgf@layerboxsaved@background=\box105
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/cite/cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (/Users/Trent/Documents/Study/Courses/2020Spring/Data Mining II/Homework/Final project.nosync/Slides/.texpadtmp/What kind of music is popular nowadays?.aux
+
+LaTeX Warning: Label `ggpairs.png' multiply defined.
+
+
+LaTeX Warning: Label `ggpairs.png' multiply defined.
+
+
+LaTeX Warning: Label `ggpairs.png' multiply defined.
+
+
+LaTeX Warning: Label `ggpairs.png' multiply defined.
+
+
+LaTeX Warning: Label `errorK-NearestNeighbors' multiply defined.
+
+)
+\openout1 = `"What kind of music is popular nowadays?.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 39.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(32.00931pt, 300.17674pt, 32.00931pt)
+* v-part:(T,H,B)=(0.0pt, 273.14662pt, 0.0pt)
+* \paperwidth=364.19536pt
+* \paperheight=273.14662pt
+* \textwidth=300.17674pt
+* \textheight=244.6939pt
+* \oddsidemargin=-40.26068pt
+* \evensidemargin=-40.26068pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box106
+Package hyperref Info: Link coloring ON on input line 39.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count354
+)
+LaTeX Info: Redefining \ref on input line 39.
+LaTeX Info: Redefining \pageref on input line 39.
+LaTeX Info: Redefining \nameref on input line 39.
+ (/Users/Trent/Documents/Study/Courses/2020Spring/Data Mining II/Homework/Final project.nosync/Slides/.texpadtmp/What kind of music is popular nowadays?.out) (/Users/Trent/Documents/Study/Courses/2020Spring/Data Mining II/Homework/Final project.nosync/Slides/.texpadtmp/What kind of music is popular nowadays?.out)
+\@outlinefile=\write5
+\openout5 = `"What kind of music is popular nowadays?.out"'.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 39.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/b/n on input line 39.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/Carlito(0)/m/n on input line 39.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmss/b/n --> OT1/Carlito(0)/b/n on input line 39.
+\symnumbers=\mathgroup6
+\sympureletters=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/Carlito(0)/m/n --> TU/lmr/m/n on input line 39.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/lmr/bx/n --> TU/Carlito(0)/b/n on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/lmr/bx/n --> TU/Carlito(0)/b/n on input line 39.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/lmss/m/n --> TU/Carlito(0)/m/n on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/lmss/bx/n --> TU/Carlito(0)/m/n on input line 39.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/lmr/m/it --> TU/Carlito(0)/m/it on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/lmr/bx/it --> TU/Carlito(0)/m/it on input line 39.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/lmtt/m/n --> TU/DejaVuSansMono(0)/m/n on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/lmtt/m/n --> TU/DejaVuSansMono(0)/m/n on input line 39.
+LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
+(Font)                  TU/Carlito(0)/m/n --> TU/Carlito(0)/b/n on input line 39.
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  TU/Carlito(0)/m/it --> TU/Carlito(0)/b/it on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/Carlito(0)/b/n --> TU/lmr/b/n on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  TU/Carlito(0)/b/n --> TU/Carlito(0)/b/n on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  TU/Carlito(0)/m/n --> TU/Carlito(0)/b/n on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  TU/Carlito(0)/m/it --> TU/Carlito(0)/b/it on input line 39.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  TU/DejaVuSansMono(0)/m/n --> TU/DejaVuSansMono(0)/b/n on input line 39.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-environment-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-months-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-numbers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+LaTeX Info: Redefining \microtypecontext on input line 39.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Carlito' (encoding: TU).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/Carlito(0)/m/n --> OT1/zavm/m/n on input line 39.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/lmm/m/it --> OML/zavm/m/it on input line 39.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/lmsy/m/n --> OMS/zavm/m/n on input line 39.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/lmex/m/n --> OMX/iwona/m/n on input line 39.
+\c@lstlisting=\count355
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 39.
+ (/Users/Trent/Documents/Study/Courses/2020Spring/Data Mining II/Homework/Final project.nosync/Slides/.texpadtmp/What kind of music is popular nowadays?.nav)
+LaTeX Font Info:    Font shape `TU/Carlito(0)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 39.
+Requested font "[Carlito-Regular.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 6.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Regular.ttf
+File: fibeamer/theme/uu/UCF-logo.pdf Graphic file (type pdf)
+<use fibeamer/theme/uu/UCF-logo.pdf>
+LaTeX Font Info:    Font shape `TU/Carlito(0)/m/n' will be
+(Font)              scaled to size 17.28pt on input line 40.
+Requested font "[Carlito-Regular.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 17.28pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Regular.ttf
+LaTeX Font Info:    Font shape `TU/Carlito(0)/b/n' will be
+(Font)              scaled to size 17.28pt on input line 40.
+Requested font "[Carlito-Bold.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 17.28pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Bold.ttf
+
+Overfull \hbox (2.0pt too wide) in paragraph at lines 40--40
+[][]  
+ []
+
+LaTeX Font Info:    Font shape `TU/Carlito(0)/b/n' will be
+(Font)              scaled to size 10.95pt on input line 40.
+Requested font "[Carlito-Bold.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 10.95pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Bold.ttf
+LaTeX Font Info:    Font shape `TU/Carlito(0)/b/n' will be
+(Font)              scaled to size 14.4pt on input line 40.
+Requested font "[Carlito-Bold.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 14.4pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Bold.ttf
+LaTeX Font Info:    Trying to load font information for OT1+zavm on input line 40.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/arev/ot1zavm.fd
+File: ot1zavm.fd 2006/05/30 Fontinst v1.929 font definitions for OT1/zavm.
+)
+Requested font "zavmr7t" at 14.4pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmr7t.tfm
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `zavm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package microtype Info: Character `textendash ' is missing
+(microtype)             in font `OT1/zavm/m/n/14.4'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textemdash ' is missing
+(microtype)             in font `OT1/zavm/m/n/14.4'.
+(microtype)             Ignoring protrusion settings for this character.
+Requested font "zavmr7t" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmr7t.tfm
+Package microtype Info: Character `textendash ' is missing
+(microtype)             in font `OT1/zavm/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textemdash ' is missing
+(microtype)             in font `OT1/zavm/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Requested font "zavmr7t" at 7.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmr7t.tfm
+Package microtype Info: Character `textendash ' is missing
+(microtype)             in font `OT1/zavm/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textemdash ' is missing
+(microtype)             in font `OT1/zavm/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `OML/zavm/m/it' will be
+(Font)              scaled to size 12.24008pt on input line 40.
+Requested font "zavmri7m" at 12.24008pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmri7m.tfm
+LaTeX Font Info:    Font shape `OML/zavm/m/it' will be
+(Font)              scaled to size 8.50006pt on input line 40.
+Requested font "zavmri7m" at 8.50006pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmri7m.tfm
+LaTeX Font Info:    Font shape `OML/zavm/m/it' will be
+(Font)              scaled to size 5.95004pt on input line 40.
+Requested font "zavmri7m" at 5.95004pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmri7m.tfm
+LaTeX Font Info:    Trying to load font information for OMS+zavm on input line 40.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/arev/omszavm.fd
+File: omszavm.fd 2006/05/30 Fontinst v1.929 font definitions for OMS/zavm.
+)
+Requested font "zavmr7y" at 14.4pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmr7y.tfm
+Requested font "zavmr7y" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmr7y.tfm
+Requested font "zavmr7y" at 7.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmr7y.tfm
+LaTeX Font Info:    Trying to load font information for OMX+iwona on input line 40.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/iwona/omxiwona.fd
+File: omxiwona.fd 2008/07/22 v0.995 font definition file for OMX/iwona (MW)
+)
+Requested font "ex-iwonar" at 14.4pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/nowacki/iwona/ex-iwonar.tfm
+Requested font "ex-iwonar" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/nowacki/iwona/ex-iwonar.tfm
+Requested font "ex-iwonar" at 7.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/nowacki/iwona/ex-iwonar.tfm
+LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+Requested font "msam10" at 14.4pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+Requested font "msam10" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msam7" at 7.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Requested font "msbm10" at 14.4pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+Requested font "msbm10" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "msbm7" at 7.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+LaTeX Font Info:    Font shape `TU/Carlito(0)/m/n' will be
+(Font)              scaled to size 14.4pt on input line 40.
+Requested font "[Carlito-Regular.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 14.4pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Regular.ttf
+LaTeX Font Info:    Font shape `TU/Carlito(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 40.
+Requested font "[Carlito-Regular.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Regular.ttf
+LaTeX Font Info:    Font shape `TU/Carlito(0)/m/n' will be
+(Font)              scaled to size 7.0pt on input line 40.
+Requested font "[Carlito-Regular.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 7.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Regular.ttf
+LaTeX Font Info:    Font shape `TU/Carlito(0)/m/it' will be
+(Font)              scaled to size 14.4pt on input line 40.
+Requested font "[Carlito-Italic.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 14.4pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Italic.ttf
+LaTeX Font Info:    Font shape `TU/Carlito(0)/m/it' will be
+(Font)              scaled to size 10.0pt on input line 40.
+Requested font "[Carlito-Italic.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Italic.ttf
+LaTeX Font Info:    Font shape `TU/Carlito(0)/m/it' will be
+(Font)              scaled to size 7.0pt on input line 40.
+Requested font "[Carlito-Italic.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 7.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Italic.ttf
+LaTeX Font Info:    Font shape `TU/Carlito(0)/b/n' will be
+(Font)              scaled to size 12.0pt on input line 40.
+Requested font "[Carlito-Bold.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 12.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Bold.ttf
+Requested font "zavmr7t" at 12.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmr7t.tfm
+Package microtype Info: Character `textendash ' is missing
+(microtype)             in font `OT1/zavm/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textemdash ' is missing
+(microtype)             in font `OT1/zavm/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Requested font "zavmr7t" at 8.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmr7t.tfm
+Package microtype Info: Character `textendash ' is missing
+(microtype)             in font `OT1/zavm/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textemdash ' is missing
+(microtype)             in font `OT1/zavm/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Requested font "zavmr7t" at 6.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmr7t.tfm
+Package microtype Info: Character `textendash ' is missing
+(microtype)             in font `OT1/zavm/m/n/6'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textemdash ' is missing
+(microtype)             in font `OT1/zavm/m/n/6'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `OML/zavm/m/it' will be
+(Font)              scaled to size 10.20007pt on input line 40.
+Requested font "zavmri7m" at 10.20007pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmri7m.tfm
+LaTeX Font Info:    Font shape `OML/zavm/m/it' will be
+(Font)              scaled to size 6.80005pt on input line 40.
+Requested font "zavmri7m" at 6.80005pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmri7m.tfm
+LaTeX Font Info:    Font shape `OML/zavm/m/it' will be
+(Font)              scaled to size 5.10004pt on input line 40.
+Requested font "zavmri7m" at 5.10004pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmri7m.tfm
+Requested font "zavmr7y" at 12.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmr7y.tfm
+Requested font "zavmr7y" at 8.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmr7y.tfm
+Requested font "zavmr7y" at 6.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmr7y.tfm
+Requested font "ex-iwonar" at 12.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/nowacki/iwona/ex-iwonar.tfm
+Requested font "ex-iwonar" at 8.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/nowacki/iwona/ex-iwonar.tfm
+Requested font "ex-iwonar" at 6.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/nowacki/iwona/ex-iwonar.tfm
+Requested font "msam10" at 12.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msam10" at 8.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msam7" at 6.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+Requested font "msbm10" at 12.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "msbm10" at 8.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "msbm7" at 6.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+LaTeX Font Info:    Font shape `TU/Carlito(0)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 40.
+Requested font "[Carlito-Regular.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 12.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Regular.ttf
+LaTeX Font Info:    Font shape `TU/Carlito(0)/m/n' will be
+(Font)              scaled to size 8.0pt on input line 40.
+Requested font "[Carlito-Regular.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 8.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Regular.ttf
+LaTeX Font Info:    Font shape `TU/Carlito(0)/m/it' will be
+(Font)              scaled to size 12.0pt on input line 40.
+Requested font "[Carlito-Italic.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 12.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Italic.ttf
+LaTeX Font Info:    Font shape `TU/Carlito(0)/m/it' will be
+(Font)              scaled to size 8.0pt on input line 40.
+Requested font "[Carlito-Italic.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 8.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Italic.ttf
+LaTeX Font Info:    Font shape `TU/Carlito(0)/m/it' will be
+(Font)              scaled to size 6.0pt on input line 40.
+Requested font "[Carlito-Italic.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 6.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Italic.ttf
+LaTeX Font Info:    Font shape `TU/Carlito(0)/m/n' will be
+(Font)              scaled to size 4.0pt on input line 40.
+Requested font "[Carlito-Regular.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 4.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Regular.ttf
+ [1
+
+] (/Users/Trent/Documents/Study/Courses/2020Spring/Data Mining II/Homework/Final project.nosync/Slides/.texpadtmp/What kind of music is popular nowadays?.toc)
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [2
+
+]
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [3
+
+]
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [4
+
+] (/Users/Trent/Documents/Study/Courses/2020Spring/Data Mining II/Homework/Final project.nosync/Slides/.texpadtmp/What kind of music is popular nowadays?.toc)
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [5
+
+]
+
+LaTeX Warning: Citation `tomigelo_2018' on page 6 undefined on input line 80.
+
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+[6
+
+]
+Requested font "zavmr7t" at 10.95pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmr7t.tfm
+Package microtype Info: Character `textendash ' is missing
+(microtype)             in font `OT1/zavm/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textemdash ' is missing
+(microtype)             in font `OT1/zavm/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `OML/zavm/m/it' will be
+(Font)              scaled to size 9.30756pt on input line 92.
+Requested font "zavmri7m" at 9.30756pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmri7m.tfm
+Requested font "zavmr7y" at 10.95pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmr7y.tfm
+Requested font "ex-iwonar" at 10.95pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/nowacki/iwona/ex-iwonar.tfm
+Requested font "msam10" at 10.95pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msbm10" at 10.95pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+LaTeX Font Info:    Font shape `TU/Carlito(0)/m/it' will be
+(Font)              scaled to size 10.95pt on input line 92.
+Requested font "[Carlito-Italic.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 10.95pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Italic.ttf
+
+
+LaTeX Warning: Citation `spotifyfordevelopers' on page 7 undefined on input line 92.
+
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+[7
+
+]
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [8
+
+] (/Users/Trent/Documents/Study/Courses/2020Spring/Data Mining II/Homework/Final project.nosync/Slides/.texpadtmp/What kind of music is popular nowadays?.toc)
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [9
+
+]
+
+LaTeX Warning: File `figure/ggpairs.png' not found on input line 124.
+
+./What kind of music is popular nowadays?.tex:124: Unable to load picture or PDF file 'figure/ggpairs.png'.
+<to be read again> 
+                   }
+l.124 \end{frame}
+                 
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+./What kind of music is popular nowadays?.tex:124: Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.124 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: figure/ggpairs.png Graphic file (type bmp)
+<figure/ggpairs.png>
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+[10
+
+]
+
+LaTeX Warning: File `figure/ggpairscopy.png' not found on input line 134.
+
+./What kind of music is popular nowadays?.tex:134: Unable to load picture or PDF file 'figure/ggpairscopy.png'.
+<to be read again> 
+                   }
+l.134 \end{frame}
+                 
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+./What kind of music is popular nowadays?.tex:134: Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.134 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: figure/ggpairscopy.png Graphic file (type bmp)
+<figure/ggpairscopy.png>
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+[11
+
+]
+
+LaTeX Warning: File `figure/ggpairscopy2.png' not found on input line 144.
+
+./What kind of music is popular nowadays?.tex:144: Unable to load picture or PDF file 'figure/ggpairscopy2.png'.
+<to be read again> 
+                   }
+l.144 \end{frame}
+                 
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+./What kind of music is popular nowadays?.tex:144: Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.144 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: figure/ggpairscopy2.png Graphic file (type bmp)
+<figure/ggpairscopy2.png>
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+[12
+
+]
+
+LaTeX Warning: File `figure/ggpairscopy3.png' not found on input line 154.
+
+./What kind of music is popular nowadays?.tex:154: Unable to load picture or PDF file 'figure/ggpairscopy3.png'.
+<to be read again> 
+                   }
+l.154 \end{frame}
+                 
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+./What kind of music is popular nowadays?.tex:154: Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.154 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: figure/ggpairscopy3.png Graphic file (type bmp)
+<figure/ggpairscopy3.png>
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+[13
+
+]
+
+LaTeX Warning: File `figure/ggpairscopy4.png' not found on input line 164.
+
+./What kind of music is popular nowadays?.tex:164: Unable to load picture or PDF file 'figure/ggpairscopy4.png'.
+<to be read again> 
+                   }
+l.164 \end{frame}
+                 
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+./What kind of music is popular nowadays?.tex:164: Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.164 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: figure/ggpairscopy4.png Graphic file (type bmp)
+<figure/ggpairscopy4.png>
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+[14
+
+]
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [15
+
+] (/Users/Trent/Documents/Study/Courses/2020Spring/Data Mining II/Homework/Final project.nosync/Slides/.texpadtmp/What kind of music is popular nowadays?.toc)
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [16
+
+]
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [17
+
+]
+Requested font "zavmr7t" at 5.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmr7t.tfm
+Package microtype Info: Character `textendash ' is missing
+(microtype)             in font `OT1/zavm/m/n/5'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textemdash ' is missing
+(microtype)             in font `OT1/zavm/m/n/5'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `OML/zavm/m/it' will be
+(Font)              scaled to size 4.25003pt on input line 215.
+Requested font "zavmri7m" at 4.25003pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmri7m.tfm
+Requested font "zavmr7y" at 5.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmr7y.tfm
+Requested font "ex-iwonar" at 5.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/nowacki/iwona/ex-iwonar.tfm
+Requested font "msam5" at 5.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+Requested font "msbm5" at 5.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+LaTeX Font Info:    Font shape `TU/Carlito(0)/m/n' will be
+(Font)              scaled to size 5.0pt on input line 215.
+Requested font "[Carlito-Regular.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 5.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Regular.ttf
+LaTeX Font Info:    Font shape `TU/Carlito(0)/m/it' will be
+(Font)              scaled to size 5.0pt on input line 215.
+Requested font "[Carlito-Italic.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 5.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Italic.ttf
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [18
+
+]
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [19
+
+]
+
+LaTeX Warning: File `figure/predict_and_observe_plot.eps' not found on input line 241.
+
+
+./What kind of music is popular nowadays?.tex:241: LaTeX Error: File `figure/predict_and_observe_plot.eps' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.241 \end{frame}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./What kind of music is popular nowadays?.tex:241: LaTeX Error: Cannot determine size of graphic in figure/predict_and_observe_plot.eps (no BoundingBox).
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.241 \end{frame}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+File: figure/predict_and_observe_plot.eps Graphic file (type eps)
+<figure/predict_and_observe_plot.eps>
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+[20
+
+]
+
+LaTeX Warning: File `figure/testerror.png' not found on input line 250.
+
+./What kind of music is popular nowadays?.tex:250: Unable to load picture or PDF file 'figure/testerror.png'.
+<to be read again> 
+                   }
+l.250 \end{frame}
+                 
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+./What kind of music is popular nowadays?.tex:250: Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.250 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: figure/testerror.png Graphic file (type bmp)
+<figure/testerror.png>
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+[21
+
+]
+
+LaTeX Warning: File `figure/cvfitlasso.png' not found on input line 261.
+
+./What kind of music is popular nowadays?.tex:261: Unable to load picture or PDF file 'figure/cvfitlasso.png'.
+<to be read again> 
+                   }
+l.261 \end{frame}
+                 
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+./What kind of music is popular nowadays?.tex:261: Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.261 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: figure/cvfitlasso.png Graphic file (type bmp)
+<figure/cvfitlasso.png>
+LaTeX Font Info:    Font shape `TU/Carlito(0)/m/n' will be
+(Font)              scaled to size 9.0pt on input line 261.
+Requested font "[Carlito-Regular.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 9.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Regular.ttf
+Requested font "zavmr7t" at 9.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmr7t.tfm
+Package microtype Info: Character `textendash ' is missing
+(microtype)             in font `OT1/zavm/m/n/9'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textemdash ' is missing
+(microtype)             in font `OT1/zavm/m/n/9'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `OML/zavm/m/it' will be
+(Font)              scaled to size 7.65005pt on input line 261.
+Requested font "zavmri7m" at 7.65005pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmri7m.tfm
+Requested font "zavmr7y" at 9.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/arev/zavmr7y.tfm
+Requested font "ex-iwonar" at 9.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/nowacki/iwona/ex-iwonar.tfm
+Requested font "msam10" at 9.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msbm10" at 9.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+LaTeX Font Info:    Font shape `TU/Carlito(0)/m/it' will be
+(Font)              scaled to size 9.0pt on input line 261.
+Requested font "[Carlito-Italic.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 9.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Italic.ttf
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+[22
+
+]
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [23
+
+]
+
+LaTeX Warning: File `figure/cvfitlasso.png' not found on input line 300.
+
+
+./What kind of music is popular nowadays?.tex:300: Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.300 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: figure/cvfitlasso.png Graphic file (type bmp)
+<figure/cvfitlasso.png>
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+[24
+
+]
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [25
+
+]
+
+LaTeX Warning: File `figure/cvfitpla_net.png' not found on input line 344.
+
+./What kind of music is popular nowadays?.tex:344: Unable to load picture or PDF file 'figure/cvfitpla_net.png'.
+<to be read again> 
+                   }
+l.344 \end{frame}
+                 
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+./What kind of music is popular nowadays?.tex:344: Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.344 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: figure/cvfitpla_net.png Graphic file (type bmp)
+<figure/cvfitpla_net.png>
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+[26
+
+]
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [27
+
+] (/Users/Trent/Documents/Study/Courses/2020Spring/Data Mining II/Homework/Final project.nosync/Slides/.texpadtmp/What kind of music is popular nowadays?.toc)
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [28
+
+]
+
+LaTeX Warning: Citation `james2013introduction' on page 29 undefined on input line 400.
+
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+[29
+
+]
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [30
+
+]
+
+LaTeX Warning: File `figure/errorMultinomialLogisticRegression.png' not found on input line 417.
+
+./What kind of music is popular nowadays?.tex:417: Unable to load picture or PDF file 'figure/errorMultinomialLogisticRegression.png'.
+<to be read again> 
+                   }
+l.417 \end{frame}
+                 
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+./What kind of music is popular nowadays?.tex:417: Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.417 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: figure/errorMultinomialLogisticRegression.png Graphic file (type bmp)
+<figure/errorMultinomialLogisticRegression.png>
+LaTeX Font Info:    Font shape `TU/Carlito(0)/b/n' will be
+(Font)              scaled to size 9.0pt on input line 417.
+Requested font "[Carlito-Bold.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 9.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Bold.ttf
+
+LaTeX Warning: Citation `james2013introduction' on page 31 undefined on input line 417.
+
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+[31
+
+]
+
+LaTeX Warning: File `figure/errorLinearDiscriminativeAnalysis.png' not found on input line 457.
+
+./What kind of music is popular nowadays?.tex:457: Unable to load picture or PDF file 'figure/errorLinearDiscriminativeAnalysis.png'.
+<to be read again> 
+                   }
+l.457 \end{frame}
+                 
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+./What kind of music is popular nowadays?.tex:457: Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.457 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: figure/errorLinearDiscriminativeAnalysis.png Graphic file (type bmp)
+<figure/errorLinearDiscriminativeAnalysis.png>
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+[32
+
+]
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [33
+
+]
+
+LaTeX Warning: File `figure/errorQuadraticDiscriminativeAnalysis.png' not found on input line 499.
+
+./What kind of music is popular nowadays?.tex:499: Unable to load picture or PDF file 'figure/errorQuadraticDiscriminativeAnalysis.png'.
+<to be read again> 
+                   }
+l.499 \end{frame}
+                 
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+./What kind of music is popular nowadays?.tex:499: Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.499 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: figure/errorQuadraticDiscriminativeAnalysis.png Graphic file (type bmp)
+<figure/errorQuadraticDiscriminativeAnalysis.png>
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+[34
+
+]
+LaTeX Font Info:    Font shape `TU/Carlito(0)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 536.
+Requested font "[Carlito-Bold.ttf]/OT:script=latn;language=dflt;+lnum;+pnum;mapping=tex-text;" at 10.0pt
+ -> /usr/local/texlive/2019/texmf-dist/fonts/truetype/typoland/carlito/Carlito-Bold.ttf
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [35
+
+]
+
+LaTeX Warning: File `figure/errorK-NearestNeighbors.png' not found on input line 545.
+
+./What kind of music is popular nowadays?.tex:545: Unable to load picture or PDF file 'figure/errorK-NearestNeighbors.png'.
+<to be read again> 
+                   }
+l.545 \end{frame}
+                 
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+./What kind of music is popular nowadays?.tex:545: Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.545 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: figure/errorK-NearestNeighbors.png Graphic file (type bmp)
+<figure/errorK-NearestNeighbors.png>
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+[36
+
+]
+
+LaTeX Warning: File `figure/errorDicisionTree.png' not found on input line 583.
+
+./What kind of music is popular nowadays?.tex:583: Unable to load picture or PDF file 'figure/errorDicisionTree.png'.
+<to be read again> 
+                   }
+l.583 \end{frame}
+                 
+The requested image couldn't be read because
+it was not a recognized image format.
+
+
+./What kind of music is popular nowadays?.tex:583: Package graphics Error: Division by 0.
+
+See the graphics package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.583 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+File: figure/errorDicisionTree.png Graphic file (type bmp)
+<figure/errorDicisionTree.png>
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+[37
+
+] (/Users/Trent/Documents/Study/Courses/2020Spring/Data Mining II/Homework/Final project.nosync/Slides/.texpadtmp/What kind of music is popular nowadays?.toc)
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [38
+
+]
+Overfull \vbox (1.08253pt too high) detected at line 609
+ []
+
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+[39
+
+]
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [40
+
+] (/Users/Trent/Documents/Study/Courses/2020Spring/Data Mining II/Homework/Final project.nosync/Slides/.texpadtmp/What kind of music is popular nowadays?.toc)
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [41
+
+] (/Users/Trent/Documents/Study/Courses/2020Spring/Data Mining II/Homework/Final project.nosync/Slides/.texpadtmp/What kind of music is popular nowadays?.bbl)
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [42
+
+]
+File: fibeamer/theme/uu/uu-watermark.png Graphic file (type bmp)
+<fibeamer/theme/uu/uu-watermark.png>
+ [43
+
+]
+\tf@nav=\write6
+\openout6 = `"What kind of music is popular nowadays?.nav"'.
+
+\tf@toc=\write7
+\openout7 = `"What kind of music is popular nowadays?.toc"'.
+
+\tf@snm=\write8
+\openout8 = `"What kind of music is popular nowadays?.snm"'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 631.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 631.
+ (/Users/Trent/Documents/Study/Courses/2020Spring/Data Mining II/Homework/Final project.nosync/Slides/.texpadtmp/What kind of music is popular nowadays?.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 631.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 631.
+Package rerunfilecheck Info: File `"What kind of music is popular nowadays?".out' has not changed.
+(rerunfilecheck)             Checksum: <no file>.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 33728 strings out of 479805
+ 713597 string characters out of 5893181
+ 1037953 words of memory out of 5000000
+ 50031 multiletter control sequences out of 15000+600000
+ 554466 words of font info for 114 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 72i,14n,123p,874b,1171s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on /Users/Trent/Documents/Study/Courses/2020Spring/Data Mining II/Homework/Final project.nosync/Slides/.texpadtmp/What kind of music is popular nowadays?.pdf (43 pages).

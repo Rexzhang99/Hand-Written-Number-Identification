@@ -1,0 +1,16 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Introduction}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{Problem Description}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Assumptions}{4}{0}{1}
+\beamer@sectionintoc {2}{Data Preparation}{5}{0}{2}
+\beamer@subsectionintoc {2}{1}{Data Imformation}{6}{0}{2}
+\beamer@subsectionintoc {2}{2}{Data Cleaning}{8}{0}{2}
+\beamer@subsectionintoc {2}{3}{Variable Selection}{9}{0}{2}
+\beamer@sectionintoc {3}{Descriptive Analysis}{10}{0}{3}
+\beamer@sectionintoc {4}{Model Analysis}{16}{0}{4}
+\beamer@subsectionintoc {4}{1}{Multinomial Logistic Regression}{18}{0}{4}
+\beamer@subsectionintoc {4}{2}{Linear Discriminative Analysis (LDA)}{22}{0}{4}
+\beamer@subsectionintoc {4}{3}{Quadratic Discriminative Analysis (QDA)}{26}{0}{4}
+\beamer@subsectionintoc {4}{4}{K-Nearest Neighbors (KNN)}{30}{0}{4}
+\beamer@sectionintoc {5}{Conclusion}{35}{0}{5}
+\beamer@sectionintoc {6}{Bibliography}{38}{0}{6}
